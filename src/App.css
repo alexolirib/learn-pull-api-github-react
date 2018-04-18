@@ -1,0 +1,14 @@
+.App {
+  margin-left: 10px; 
+  margin-top: 10px;
+}
+
+.imgBlock {
+  margin-top: 5px;
+  width: 10%;
+}
+
+.description {
+  display: inline-block;
+  margin-left: 10px;
+}
